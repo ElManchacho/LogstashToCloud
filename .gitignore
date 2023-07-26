@@ -1,3 +1,4 @@
 *.zip
 elastic-agent-8.8.2-windows-x86_64/
 /logs/*/
+.env

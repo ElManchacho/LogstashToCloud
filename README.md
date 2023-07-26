@@ -7,3 +7,4 @@ This app currently runs with the the following Fleet-Managed Elastic Agents vers
 
 - [8.8](https://www.elastic.co/guide/en/fleet/8.8/install-fleet-managed-elastic-agent.html)
 
+## I followed this tutorial : https://www.youtube.com/watch?v=wiQ8U5mFncw&list=WL&index=3&ab_channel=JohnHammond
